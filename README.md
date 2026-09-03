@@ -309,21 +309,4 @@ Como evolución futura, el modelo podría incorporar:
 - una clasificación formal del tipo de compra en el ERP;
 - validación y ajuste de umbrales junto con responsables de Compras.
 
-## Estructura recomendada del repositorio
 
-```text
-supply-chain-analytics-ob-cocinas/
-├── README.md
-├── dashboard/
-│   └── DASHBOARD_PROYECTO_PORTAFOLIOS.pbix
-├── docs/
-│   └── README_Portfolio_OB_Cocinas.pdf
-├── images/
-│   ├── powerbi_qr.jpg
-│   ├── 01_vision_general_compras_especiales.png
-│   ├── 02_analisis_por_proveedor.png
-│   ├── 03_analisis_tendencia_demanda.png
-│   └── 04_simulador_politica_compra_agrupada.png
-└── cost-model/
-    └── Coste_Lanzamiento_OC_Modelo_Ajustado.xlsx
-```
