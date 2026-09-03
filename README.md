@@ -23,8 +23,7 @@ También se puede escanear el siguiente QR para abrir el informe desde el móvil
   <img src="images/powerbi_qr.jpg" alt="QR de acceso al dashboard de Power BI" width="150">
 </p>
 
-**Modelo de cálculo de costes:**  
-[`Coste_Lanzamiento_OC_Modelo_Ajustado.xlsx`](cost-model/Coste_Lanzamiento_OC_Modelo_Ajustado.xlsx)
+
 
 > **Nota de confidencialidad:** los datos mostrados en la versión pública han sido anonimizados y modificados para proteger información empresarial. El problema de negocio, la metodología, la arquitectura del modelo y la lógica de análisis corresponden al proyecto desarrollado durante las prácticas.
 
